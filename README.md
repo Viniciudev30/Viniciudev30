@@ -1,6 +1,6 @@
 ## Hi there,Im Vinicius Santos
 
-🎓 Graduado no curso de Tecnólogo em Sistemas da Informação da UniSãoJosé
+🎓 Formado no curso de Tecnólogo em Sistemas da Informação da UniSãoJosé
 
 📚 Atualmente estudando Java, Spring Boot, MySQL,Typescript, Android + Flutter + Dart
 
