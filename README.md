@@ -3,11 +3,11 @@
 
 ###
 
-![Static Badge](https://img.shields.io/badge/java-social?style=for-the-badge&logo=java&logoColor=fff&color=0D1117)
-![Static Badge](https://img.shields.io/badge/Spring-social?style=for-the-badge&logo=spring&logoColor=fff&color=0D1117)
-![Static Badge](https://img.shields.io/badge/MYSQL-social?style=for-the-badge&logo=mysql&logoColor=fff&color=0D1117)
-![Static Badge](https://img.shields.io/badge/GIT-social?style=for-the-badge&logo=git&logoColor=fff&color=0D1117)
-![Static Badge](https://img.shields.io/badge/GITHUB-social?style=for-the-badge&logo=github&logoColor=fff&color=0D1117)
+ ![Static Badge](https://img.shields.io/badge/java-social?style=for-the-badge&logo=java&logoColor=fff&color=0D1117)
+ ![Static Badge](https://img.shields.io/badge/Spring-social?style=for-the-badge&logo=spring&logoColor=fff&color=0D1117)
+ ![Static Badge](https://img.shields.io/badge/MYSQL-social?style=for-the-badge&logo=mysql&logoColor=fff&color=0D1117)
+ ![Static Badge](https://img.shields.io/badge/GIT-social?style=for-the-badge&logo=git&logoColor=fff&color=0D1117)
+ ![Static Badge](https://img.shields.io/badge/GITHUB-social?style=for-the-badge&logo=github&logoColor=fff&color=0D1117)
 
 
 ###
